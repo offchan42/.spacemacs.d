@@ -1,5 +1,5 @@
 # .spacemacs.d
-My `.spacemacs.d` folder for [Spacemacs](https://github.com/syl20bnr/spacemacs)
+My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemacs)
 configurations
 
 # Installation
