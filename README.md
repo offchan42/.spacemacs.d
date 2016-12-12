@@ -5,7 +5,7 @@ configurations
 # Screenshots
 Spacemacs with material theme
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
-](screenshots/2016-12-12_23-42-18.png)
+](screenshots/2016-12-12_23-42-18.png?raw=true)
 
 # Installation
 1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
