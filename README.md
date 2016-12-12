@@ -16,6 +16,7 @@ configurations
   ```bash
   rm .spacemacs
   ```
+4. That's it! You are now ready to use Spacemacs with my configuration
 
 # Configurations
-Edit `~/.spacemacs.d/init.el` instead of `.spacemacs`.
+Edit `~/.spacemacs.d/init.el` instead of `~/.spacemacs`.

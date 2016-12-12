@@ -37,7 +37,7 @@ values."
 
      themes-megapack
      imenu-list ;; provides `SPC b i` to get a jump-menu listing all functions in your source file
-     colors
+     (colors :variables paintvars-colorize-identifiers 'all)
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
