@@ -2,6 +2,9 @@
 My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemacs)
 configurations
 
+# Screenshots
+![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
+
 # Installation
 1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
   on develop branch.
