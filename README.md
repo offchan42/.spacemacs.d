@@ -2,6 +2,11 @@
 My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemacs)
 configurations
 
+# What is Spacemacs ?
+**Spacemacs** is an **Emacs** configuration distribution that makes **Emacs**
+behave a lot like **Vim** and also provides many useful features out of the box.
+ 
+
 # Screenshots
 This is a Spacemacs instance on Windows with **material** theme
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
