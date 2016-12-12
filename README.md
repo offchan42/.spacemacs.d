@@ -3,7 +3,7 @@ My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemac
 configurations
 
 # Screenshots
-Spacemacs with material theme
+This is a Spacemacs instance on Windows with **material** theme
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
 ](screenshots/2016-12-12_23-42-18.png?raw=true)
 
