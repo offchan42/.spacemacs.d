@@ -1,9 +1,11 @@
 # .spacemacs.d
-My .spacemacs.d folder for Spacemacs configurations
+My `.spacemacs.d` folder for [Spacemacs](https://github.com/syl20bnr/spacemacs)
+configurations
 
 # Installation
-1. Install Spacemacs
-2. Clone this repository inside your home
+1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
+  on develop branch.
+2. Clone this repository inside your home.
 
   ```bash
   git clone https://github.com/off99555/.spacemacs.d.git
@@ -16,4 +18,4 @@ My .spacemacs.d folder for Spacemacs configurations
   ```
 
 # Configurations
-You can now edit `~/.spacemacs.d/init.el` instead of `.spacemacs`
+Edit `~/.spacemacs.d/init.el` instead of `.spacemacs`.
