@@ -197,7 +197,7 @@ values."
    ;; (default nil)
    dotspacemacs-ex-substitute-global t
    ;; Name of the default layout (default "Default")
-   dotspacemacs-default-layout-name "Default"
+   dotspacemacs-default-layout-name "Spacemacs"
    ;; If non nil the default layout name is displayed in the mode-line.
    ;; (default nil)
    dotspacemacs-display-default-layout t
