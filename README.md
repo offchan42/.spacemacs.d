@@ -12,7 +12,8 @@ These are screenshots taken over time. The most recent one is at the bottom.
 
 My current theme is **material** (I switched back from **majapahit-dark**).
 
-This is a Spacemacs instance on Windows with **material** theme
+This is a Spacemacs instance on Windows with **material** theme showing **which
+key** buffer that is invoked by pressing `SPC`.
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
 ](screenshots/2016-12-12_23-42-18.png?raw=true)
 
