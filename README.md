@@ -8,7 +8,9 @@ behave a lot like **Vim** and also provides many useful features out of the box.
  
 
 # Screenshots
-These are screenshots taken over time. The latest one is at the bottom.
+These are screenshots taken over time. The most recent one is at the bottom.
+
+My current theme is **material**.
 
 This is a Spacemacs instance on Windows with **material** theme
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
