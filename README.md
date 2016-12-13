@@ -8,9 +8,17 @@ behave a lot like **Vim** and also provides many useful features out of the box.
  
 
 # Screenshots
+These are screenshots taken over time. The latest one is at the bottom.
+
 This is a Spacemacs instance on Windows with **material** theme
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
 ](screenshots/2016-12-12_23-42-18.png?raw=true)
+
+This is another Spacemacs instance on Windows with **majapahit-dark** theme
+showing **magit** plugin and the Spacemacs home buffer.
+[![2016-12-13_21-35-23.png](screenshots/2016-12-13_21-35-23.png)
+](screenshots/2016-12-13_21-35-23.png?raw=true)
+
 
 # Installation
 1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
