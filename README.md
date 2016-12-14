@@ -5,7 +5,9 @@ configurations
 # What is Spacemacs ?
 **Spacemacs** is an **Emacs** configuration distribution that makes **Emacs**
 behave a lot like **Vim** and also provides many useful features out of the box.
- 
+
+It forces heavy usage of **space** bar, thus the name **Spacemacs**. It refers
+to the space bar as `SPC`.
 
 # Screenshots
 These are screenshots taken over time. The most recent one is at the bottom.
@@ -43,3 +45,8 @@ showing **magit** package and the Spacemacs home buffer.
 
 # Configurations
 Edit `~/.spacemacs.d/init.el` instead of `~/.spacemacs`.
+
+You can open the configuration file directly via `SPC f e d`.
+
+You can also compare the differences betweeh the default Spacemacs settings
+versus mine via `SPC f e D`.
