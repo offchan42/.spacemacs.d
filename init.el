@@ -332,6 +332,8 @@ you should place your code here."
                 ;; scroll-conservatively 9999
                 ;; scroll-step 1
                 )
+  (setq-default google-translate-default-source-language "en"
+                google-translate-default-target-language "th")
   ;; (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
   ;; (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
   (setq powerline-default-separator 'arrow)
