@@ -52,3 +52,10 @@ You can open the configuration file directly via `SPC f e d`.
 
 You can also compare the differences betweeh the default Spacemacs settings
 versus mine via `SPC f e D`.
+
+# Learning to Use
+If you know Vi, you will be able to use Spacemacs without much of a hassle.
+But if you don't, you can press `SPC h T` to open the `Evil mode` interactive
+tutor and familiarize yourself with Spacemacs.
+
+**NOTE:** Evil mode is an Emacs package that tries to mimic Vi.
