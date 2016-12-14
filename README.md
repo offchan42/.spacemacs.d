@@ -2,9 +2,10 @@
 My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemacs)
 configurations
 
-# What is Spacemacs ?
+# What is [Spacemacs](https://github.com/syl20bnr/spacemacs) ?
 **Spacemacs** is an **Emacs** configuration distribution that makes **Emacs**
-behave a lot like **Vim** and also provides many useful features out of the box.
+behave a lot like **Vim** by using model text editing and also provides many
+useful features out of the box.
 
 It forces heavy usage of **space** bar, thus the name **Spacemacs**. It refers
 to the space bar as `SPC`.
