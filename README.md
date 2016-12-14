@@ -59,3 +59,17 @@ But if you don't, you can press `SPC h T` to open the **Evil mode** interactive
 tutor and familiarize yourself with Spacemacs.
 
 **NOTE:** Evil mode is an Emacs package that tries to mimic Vi.
+
+After you have familiarized yourself with **Evil** modal editing, your next
+station is to discover Spacemacs' features. You can do so in several ways.
+
+By hitting `SPC ?` you can search for functions that have certain keybindings
+attached. You can learn what key does what and what function is assigned to
+which key this way.
+
+The biggest help is probably `SPC h SPC`. It lists all **Spacemacs layers** and
+the documentation. The very first document that you should read is named
+*BEGINNERS_TUTORIAL.ORG*. Start with it first is my suggestion.
+
+If things goes wrong, you can always press `ESC` or `Ctrl-g` to escape out of
+frustration.
