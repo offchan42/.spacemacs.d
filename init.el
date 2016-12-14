@@ -347,6 +347,8 @@ you should place your code here."
   (push "~/.spacemacs.d/config/" load-path)
   ;; Modify imenu-list so that the window position is centered after each jump.
   ;; (add-hook 'imenu-after-jump-hook (lambda () (recenter 10)))
+  (colors/add-theme-sat&light 'material '(70 75))
+  (colors/refresh-theme-look)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
