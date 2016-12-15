@@ -340,7 +340,7 @@ you should place your code here."
                 google-translate-default-target-language "th")
   ;; (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
   ;; (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
-  (setq powerline-default-separator 'arrow)
+  (setq powerline-default-separator 'alternate)
   (defun swoop-find-todos () (interactive) (helm-swoop :$query "\\(fixme\\|todo\\|xxx\\)"))
   (defun swoop-find-todos-all () (interactive) (helm-multi-swoop-all "\\(fixme\\|todo\\|xxx\\)"))
   (evil-leader/set-key "o s t" 'swoop-find-todos)
