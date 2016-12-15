@@ -35,6 +35,8 @@ values."
      html
      vimscript
 
+     ;; jupyter notebook can be activated by `SPC a i n`
+     ipython-notebook
      gtags
      ;; insert emoji via `SPC i e`
      ;; show all available emoji via `SPC a E` then copy their code using `RET`
