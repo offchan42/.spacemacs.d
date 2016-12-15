@@ -4,7 +4,7 @@ configurations
 
 # What is [Spacemacs](https://github.com/syl20bnr/spacemacs) ?
 **Spacemacs** is an **Emacs** configuration distribution that makes **Emacs**
-behave a lot like **Vim** by using model text editing and also provides many
+behave a lot like **Vim** by using modal text editing and also provides many
 useful features out of the box.
 
 It forces heavy usage of **space** bar, thus the name **Spacemacs**. It refers
