@@ -40,7 +40,8 @@ values."
      ;; show all available emoji via `SPC a E` then copy their code using `RET`
      emoji
      themes-megapack
-     imenu-list ;; provides `SPC b i` to get a jump-menu listing all functions in your source file
+     ;; provides `SPC b i` to get a jump-menu listing all functions in your source file
+     imenu-list
      (colors :variables
              colors-colorize-identifiers 'all ;; set to 'all or 'variables
              colors-enable-nyan-cat-progress-bar t
