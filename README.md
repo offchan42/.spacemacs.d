@@ -71,5 +71,5 @@ The biggest help is probably `SPC h SPC`. It lists all **Spacemacs layers** and
 the documentation. The very first document that you should read is named
 *BEGINNERS_TUTORIAL.ORG*. Start with it first is my suggestion.
 
-If things goes wrong, you can always press `ESC` or `Ctrl-g` to escape out of
+If things go wrong, you can always press `ESC` or `Ctrl-g` to escape out of
 frustration.
