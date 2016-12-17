@@ -361,6 +361,7 @@ you should place your code here."
   ;; (add-hook 'imenu-after-jump-hook (lambda () (recenter 10)))
   (colors/add-theme-sat&light 'material '(70 75))
   (colors/refresh-theme-look)
+  (remove-hook `python-mode-hook `turn-on-evil-matchit-mode)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
