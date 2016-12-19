@@ -16,12 +16,12 @@ These are screenshots taken over time. The most recent one is at the bottom.
 
 My current theme is **material** (I switched back from **majapahit-dark**).
 
-This is a Spacemacs instance on Windows with **material** theme showing **which
+This is a Spacemacs instance on Windows 10 with **material** theme showing **which
 key** buffer that is invoked by pressing `SPC`.
 [![2016-12-12_23-42-18.png](screenshots/2016-12-12_23-42-18.png)
 ](screenshots/2016-12-12_23-42-18.png?raw=true)
 
-This is another Spacemacs instance on Windows with **majapahit-dark** theme
+This is another Spacemacs instance on Windows 10 with **majapahit-dark** theme
 showing **magit** package and the Spacemacs home buffer.
 [![2016-12-13_21-35-23.png](screenshots/2016-12-13_21-35-23.png)
 ](screenshots/2016-12-13_21-35-23.png?raw=true)
