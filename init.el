@@ -365,7 +365,7 @@ you should place your code here."
   (setq evilmi-always-simple-jump t)
   ;; all-the-icons fonts are needed for neotree to display file icons properly
   ;; Download and install all fonts inside this repository: https://github.com/domtronn/all-the-icons.el/tree/master/fonts
-  (use-package all-the-icons)
+  ;; (use-package all-the-icons)
   (setq neo-theme (if (display-graphic-p) 'icons 'ascii))
   )
 
