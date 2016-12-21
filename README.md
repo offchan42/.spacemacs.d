@@ -43,7 +43,12 @@ showing **magit** package and the Spacemacs home buffer.
   ```
 4. That's it!
 
-  You are now ready to use Spacemacs with my configuration.
+  You are now ready to use Spacemacs with my configuration. For the best
+  experience, use Spacemacs on a graphical version of Emacs!
+
+# Dependencies
+- [all-the-icons](https://github.com/domtronn/all-the-icons.el/tree/master/fonts)
+  fonts are needed for `SPC f t` to display file icons properly.
 
 # Configurations
 Edit `~/.spacemacs.d/init.el` instead of `~/.spacemacs`.

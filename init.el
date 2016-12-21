@@ -80,7 +80,7 @@ values."
    ;; wrapped in a layer. If you need some configuration for these
    ;; packages, then consider creating a layer. You can also put the
    ;; configuration in `dotspacemacs/user-config'.
-   dotspacemacs-additional-packages '()
+   dotspacemacs-additional-packages '(all-the-icons)
    ;; A list of packages that cannot be updated.
    dotspacemacs-frozen-packages '()
    ;; A list of packages that will not be installed and loaded.
@@ -363,6 +363,10 @@ you should place your code here."
   (colors/refresh-theme-look)
   ;; (remove-hook `python-mode-hook `turn-on-evil-matchit-mode)
   (setq evilmi-always-simple-jump t)
+  ;; all-the-icons fonts are needed for neotree to display file icons properly
+  ;; Download and install all fonts inside this repository: https://github.com/domtronn/all-the-icons.el/tree/master/fonts
+  (use-package all-the-icons)
+  (setq neo-theme (if (display-graphic-p) 'icons 'ascii))
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
