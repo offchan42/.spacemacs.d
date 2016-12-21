@@ -378,6 +378,7 @@ you should place your code here."
   ;; (use-package all-the-icons)
   (setq neo-theme (if (display-graphic-p) 'icons 'ascii))
   (add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
+  (add-hook 'magit-mode-hook 'emoji-cheat-sheet-plus-display-mode)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
