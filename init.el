@@ -336,6 +336,7 @@ layers configuration.
 This is the place where most of your configurations should be done. Unless it is
 explicitly specified that a variable should be set before a package is loaded,
 you should place your code here."
+  ;; Main Settings
   (setq-default evil-escape-key-sequence "fd")
   (setq-default evil-escape-unordered-key-sequence t)
   (setq-default scroll-margin 7
@@ -344,9 +345,11 @@ you should place your code here."
                 )
   (setq-default google-translate-default-source-language "en"
                 google-translate-default-target-language "th")
+  (setq powerline-default-separator 'slant)
+
+  ;; Keybindings
   ;; (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
   ;; (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
-  (setq powerline-default-separator 'slant)
   (defun swoop-find-todos () (interactive) (helm-swoop :$query "\\(fixme\\|todo\\|xxx\\)"))
   (defun swoop-find-todos-all () (interactive) (helm-multi-swoop-all "\\(fixme\\|todo\\|xxx\\)"))
   (evil-leader/set-key "o s t" 'swoop-find-todos)
@@ -358,9 +361,10 @@ you should place your code here."
   (with-eval-after-load 'helm
     (define-key helm-map (kbd "C-u") 'evil-delete-whole-line))
 
-  (spacemacs/toggle-highlight-current-line-globally-off)
+  ;; Settings
   ;; Add personal script path, so that "require" works for personal scripts.
   (push "~/.spacemacs.d/config/" load-path)
+  (spacemacs/toggle-highlight-current-line-globally-off)
   ;; Modify imenu-list so that the window position is centered after each jump.
   ;; (add-hook 'imenu-after-jump-hook (lambda () (recenter 10)))
   (colors/add-theme-sat&light 'material '(70 75))
