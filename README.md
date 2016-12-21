@@ -8,8 +8,10 @@ behave a lot like **Vim** by using modal text editing and also provides many
 useful features out of the box.
 
 It forces heavy usage of **space** bar, thus the name **Spacemacs**. It refers
-to the space bar as `SPC`. The purpose of using space bar is to reduce numbers of
-Ctrl,Alt,Shift combinations. It's good for your health and your editing speed.
+to the space bar as `SPC`. The purpose of using space bar is to reduce numbers
+of Ctrl, Alt, Shift combinations. It's good for your pinky finger and your
+editing speed. It also lowers the risk
+of [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury).
 
 # Screenshots
 These are screenshots taken over time. The most recent one is at the bottom.
