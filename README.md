@@ -89,6 +89,6 @@ You can toggle between the **Holy mode** and the **Evil mode** by pressing `Ctrl
 But really, who love **Emacs**'s weird keybindings that says *Ctrl this, Ctrl
 that* all the time anyway?
 
-Everyone loves **Vi** more. ([Unless](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118) you do
+Everyone loves **Vi** keybindings. ([Unless](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118) you do
 not [grok](https://en.wikipedia.org/wiki/Grok) **Vi**)
 
