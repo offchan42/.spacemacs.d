@@ -125,7 +125,7 @@ Because the way this section is written is assuming that you understand
   matching results, type `C-c C-e` next and do your editing there.
 - Type `SPC g l l` to open current file on **GitHub** in your default web
   browser. (If the file you are on is inside a **git** repository)
-- Type `SPC g s` to open a git status of your current file insside **magit**.
+- Type `SPC g s` to open a git status of your current file inside **magit**.
   You can discover more actions by typing `?` next.
 - Type `SPC f j` or `SPC j d` to jump to a file using **dired-mode**.
 - Type `SPC b s` to open a scratch buffer you can play with immediately.
