@@ -7,6 +7,9 @@ configurations
 behave a lot like **Vim** by using modal text editing and also provides many
 useful features out of the box.
 
+Its four core pillars are *Mnemonic*, *Discoverable*,
+*Consistent* and *"Crowd-Configured"*.
+
 It forces heavy usage of **space** bar, thus the name **Spacemacs**. It refers
 to the space bar as `SPC`. The purpose of using space bar is to reduce numbers
 of `Ctrl`, `Alt`, `Shift `combinations. It's good for your pinky finger and your
