@@ -58,7 +58,7 @@ happy with it. On Windows, you can install **ag** the simplest way
 using [chocolatey](https://chocolatey.org/). Run `choco install ag` and you are
 good to go. If you want, you can also use **pt** instead. They both are easy to
 install and have similar performance. Don't forget to add its directory to your
-**PATH** variable, otherwise **Spacemacs** wouldn't know where to locate the searcher.
+**PATH** variable, otherwise **Spacemacs** wouldn't know how to locate the searcher.
 
 # Configurations
 Edit `~/.spacemacs.d/init.el` instead of `~/.spacemacs`.
