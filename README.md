@@ -137,9 +137,11 @@ Because the way this section is written is assuming that you understand
 ## Cool Emacs keys
 **Emacs** keybindings can also be nice sometimes. So, instead of hating it. I
 would appreciate its good part and abandone its ugliness.
+But most of these keys are also available using `SPC `key too.
 
 - Type `M-q` to toggle between filling or not filling the current paragraph.
   (Wrapping text on to new lines)
+- Type `M-t` to transpose current word with the next word.
 - Type `M-u` to upper case the next word.
 - Type `M-l` to lower case the next word.
 
