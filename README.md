@@ -50,7 +50,15 @@ experience, use **Spacemacs** on a graphical version of Emacs!
 
 # Dependencies
 - [all-the-icons](https://github.com/domtronn/all-the-icons.el/tree/master/fonts)
-fonts are needed for `SPC f t` to display file icons properly.
+fonts are needed for `SPC f t` (neotree) to display file icons properly.
+- Search tools like "[ag](https://github.com/ggreer/the_silver_searcher)",
+"[pt](https://github.com/monochromegane/the_platinum_searcher)", "ack", or
+"grep". You only need to install one of them. I recommend "ag" the most as I'm
+happy with it. On Windows, you can install **ag** the simplest way
+using [chocolatey](https://chocolatey.org/). Run `choco install ag` and you are
+good to go. If you want, you can also use **pt** instead. They both are easy to
+install and have similar performance. Don't forget to add its directory to your
+**PATH** variable, otherwise **Spacemacs** wouldn't know where to locate the searcher.
 
 # Configurations
 Edit `~/.spacemacs.d/init.el` instead of `~/.spacemacs`.
