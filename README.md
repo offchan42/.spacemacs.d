@@ -123,6 +123,9 @@ Because the way this section is written is assuming that you understand
 - Type `SPC s w g` to search using Google.
 - Type `SPC s s` to search interactively inside current buffer. To edit all the
   matching results, type `C-c C-e` next and do your editing there.
+- Type `SPC s e` to activate **iedit** on the current symbol or visually
+  selected text. You can then edit this symbol and it will replace all
+  occurences inside the buffer.
 - Type `SPC g l l` to open current file on **GitHub** in your default web
   browser. (If the file you are on is inside a **git** repository)
 - Type `SPC g s` to open a git status of your current file inside **magit**.
@@ -137,6 +140,8 @@ Because the way this section is written is assuming that you understand
 - Type `SPC i s` to insert a snippet using **yasnippet**.
 - Type `SPC i e` to insert an emoji.
 - Type `SPC i l l` to insert a random *lorem ipsum* placeholder text.
+- Type `SPC r y` to see all the previously yanked text inside the **kill ring**.
+- Type `SPC T F` or `F11` to toggle fullscreen.
 - Type `fd` consecutively to quit out of almost everything. You can exit evil
   insert state, evil visual state, helm mode, holy mode, etc.
 
