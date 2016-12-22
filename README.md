@@ -114,8 +114,18 @@ Before you do any of this stuff, please read the *BEGINNERS_TUTORIAL.ORG* first.
 Because the way this section is written is assuming that you understand
 **Spacemacs**' core concepts already.
 
+- You can open and view images inside Spacemacs.
+- Type `SPC '` to open a shell buffer (specifically **eshell**).
 - Type `SPC x g t` to translate a word under point using Google translate (the
   language is currently set from English to Thai).
 - Type `SPC s w g` to search using Google.
 - Type `SPC s s` to search interactively inside current buffer. To edit all the
   matching results, type `C-c C-e` next and do your editing there.
+- Type `SPC b s` to open a scratch buffer you can play with immediately.
+- Type `SPC TAB` to toggle between the current buffer and the lastly visited buffer.
+- Type `fd` consecutively to quit out of almost everything. You can exit evil
+  insert state, evil visual state, helm mode, holy mode, etc.
+
+  If the thing you are trying to quit out of is a **minibuffer**, just press `q`
+  to quit it.
+
