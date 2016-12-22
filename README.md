@@ -33,6 +33,10 @@ This shows **magit log** and **helm** buffer list. It also shows the
 [![2016-12-22_21-02-07.png](screenshots/2016-12-22_21-02-07.png)
 ](screenshots/2016-12-22_21-02-07.png?raw=true)
 
+This shows **nerdtree** on the left with file icons package. It can be toggled
+using `SPC f t`
+[![2016-12-22_21-05-25.png](screenshots/2016-12-22_21-05-25.png)
+](screenshots/2016-12-22_21-05-25.png?raw=true)
 
 # Installation
 1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
