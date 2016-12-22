@@ -105,4 +105,17 @@ that"* all the time anyway?
 
 Everyone loves **Vi** keybindings. ([Unless](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118) you do
 not [grok](https://en.wikipedia.org/wiki/Grok) **Vi**)
+So, try to master **Vi** keybindings and it will be beneficial to you.
+If you want to execute the next command in **Holy mode**, you can use `\` key in
+**evil normal state** which is similar to **Vi**'s normal mode.
 
+## Cool stuff you can do inside Spacemacs
+Before you do any of this stuff, please read the *BEGINNERS_TUTORIAL.ORG* first.
+Because the way this section is written is assuming that you understand
+**Spacemacs**' core concepts already.
+
+- Type `SPC x g t` to translate a word under point using Google translate (the
+  language is currently set from English to Thai).
+- Type `SPC s w g` to search using Google.
+- Type `SPC s s` to search interactively inside current buffer. To edit all the
+  matching results, type `C-c C-e` next and do your editing there.
