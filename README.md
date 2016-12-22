@@ -29,9 +29,9 @@ showing **magit** package and the **Spacemacs** home buffer.
 ](screenshots/2016-12-13_21-35-23.png?raw=true)
 
 This shows **magit log** and **helm** buffer list. It also shows the
-**imenu-list** which can be invoked using `SPC b i`.
+**markdown-mode buffer**.
 [![2016-12-22_21-02-07.png](screenshots/2016-12-22_21-02-07.png)
-]
+](screenshots/2016-12-22_21-02-07.png?raw=true)
 
 
 # Installation
