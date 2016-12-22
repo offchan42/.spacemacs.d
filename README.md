@@ -133,6 +133,10 @@ Because the way this section is written is assuming that you understand
 - Type `SPC b s` to open a scratch buffer you can play with immediately.
 - Type `SPC f J` to open a new junk file that you can save and abandon later.
 - Type `SPC TAB` to toggle between the current buffer and the lastly visited buffer.
+- Type `SPC SPC` to execute an **Emacs** command.
+- Type `SPC i s` to insert a snippet using **yasnippet**.
+- Type `SPC i e` to insert an emoji.
+- Type `SPC i l l` to insert a random *lorem ipsum* placeholder text.
 - Type `fd` consecutively to quit out of almost everything. You can exit evil
   insert state, evil visual state, helm mode, holy mode, etc.
 
@@ -140,8 +144,8 @@ Because the way this section is written is assuming that you understand
   to quit it.
 
 ## Cool Emacs keys
-**Emacs** keybindings can also be nice sometimes. So, instead of hating it. I
-would appreciate its good part and abandon its ugliness.
+**Emacs** keybindings can also be nice sometimes. So, instead of hating it. We
+should appreciate its good parts and abandon its ugliness.
 But most of these keys are also available using `SPC `key too.
 
 - Type `M-q` to toggle between filling or not filling the current paragraph.
