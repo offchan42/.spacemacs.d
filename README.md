@@ -143,7 +143,7 @@ Because the way this section is written is assuming that you understand
 - Type `SPC r y` to see all the previously yanked text inside the **kill ring**.
 - Type `SPC T F` or `F11` to toggle fullscreen.
 - Type `fd` consecutively to quit out of almost everything. You can exit evil
-  insert state, evil visual state, helm mode, holy mode, etc.
+  insert state, evil visual state, helm mode, holy mode, iedit mode, etc.
 
   If the thing you are trying to quit out of is a **minibuffer**, just press `q`
   to quit it.
