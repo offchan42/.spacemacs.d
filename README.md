@@ -28,6 +28,11 @@ showing **magit** package and the **Spacemacs** home buffer.
 [![2016-12-13_21-35-23.png](screenshots/2016-12-13_21-35-23.png)
 ](screenshots/2016-12-13_21-35-23.png?raw=true)
 
+This shows **magit log** and **helm** buffer list. It also shows the
+**imenu-list** which can be invoked using `SPC b i`.
+[![2016-12-22_21-02-07.png](screenshots/2016-12-22_21-02-07.png)
+]
+
 
 # Installation
 1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)

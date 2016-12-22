@@ -362,6 +362,7 @@ you should place your code here."
     (define-key helm-map (kbd "C-u") 'evil-delete-whole-line))
   ;; if you want to activate transient state, try `SPC n =' instead
   (define-key evil-normal-state-map (kbd "C-a") 'evil-numbers/inc-at-pt)
+  (define-key evil-insert-state-map (kbd "C-f") 'comint-dynamic-complete-filename)
 
   ;; Settings
   ;; Add personal script path, so that "require" works for personal scripts.
