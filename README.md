@@ -124,7 +124,7 @@ Because the way this section is written is assuming that you understand
 - Type `SPC s s` to search interactively inside current buffer. To edit all the
   matching results, type `C-c C-e` next and do your editing there.
 - Type `SPC s e` to activate **iedit** on the current symbol or visually
-  selected text. You can then edit this symbol and it will replace all
+  selected text. You can then edit this symbol and it will affect all
   occurences inside the buffer.
 - Type `SPC g l l` to open current file on **GitHub** in your default web
   browser. (If the file you are on is inside a **git** repository)
