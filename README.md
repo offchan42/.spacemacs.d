@@ -116,11 +116,16 @@ Because the way this section is written is assuming that you understand
 
 - You can open and view images inside Spacemacs.
 - Type `SPC '` to open a shell buffer (specifically **eshell**).
+- Type `SPC /` to do a smart search inside the project using the search tool you
+  preferred in the *Dependency* section.
 - Type `SPC x g t` to translate a word under point using Google translate (the
   language is currently set from English to Thai).
 - Type `SPC s w g` to search using Google.
 - Type `SPC s s` to search interactively inside current buffer. To edit all the
   matching results, type `C-c C-e` next and do your editing there.
+- Type `SPC g l l` to open current file on **GitHub** in your default web
+  browser. (If the file you are on is inside a **git** repository)
+- Type `SPC f j` or `SPC j d` to jump to a file using **dired-mode**.
 - Type `SPC b s` to open a scratch buffer you can play with immediately.
 - Type `SPC TAB` to toggle between the current buffer and the lastly visited buffer.
 - Type `fd` consecutively to quit out of almost everything. You can exit evil
@@ -128,4 +133,13 @@ Because the way this section is written is assuming that you understand
 
   If the thing you are trying to quit out of is a **minibuffer**, just press `q`
   to quit it.
+
+## Cool Emacs keys
+**Emacs** keybindings can also be nice sometimes. So, instead of hating it. I
+would appreciate its good part and abandone its ugliness.
+
+- Type `M-q` to toggle between filling or not filling the current paragraph.
+  (Wrapping text on to new lines)
+- Type `M-u` to upper case the next word.
+- Type `M-l` to lower case the next word.
 
