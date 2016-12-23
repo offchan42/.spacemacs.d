@@ -145,6 +145,11 @@ Because the way this section is written is assuming that you understand
 - Type `SPC i l l` to insert a random *lorem ipsum* placeholder text.
 - Type `SPC r y` to see all the previously yanked text inside the **kill ring**.
 - Type `SPC T F` or `F11` to toggle fullscreen.
+- Type `SPC w f` to toggle follow mode in the current buffer. You can then type
+  `SPC w v` to split a new window vertically. The new window will show the same
+  buffer BUT with a little twist. Put simply, if your window on the left shows
+  line 1 - 50 then your window on the right will show line 51 - 100. It also
+  sync motion on both buffers, try it and you will love it!
 - Type `fd` consecutively to quit out of almost everything. You can exit evil
   insert state, evil visual state, helm mode, holy mode, iedit mode, etc.
 
