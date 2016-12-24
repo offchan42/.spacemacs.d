@@ -45,7 +45,7 @@ values."
      ;; provides `SPC b i` to get a jump-menu listing all functions in your source file
      imenu-list
      (colors :variables
-             colors-colorize-identifiers 'all ;; set to 'all or 'variables
+             colors-colorize-identifiers 'variables ;; set to 'all or 'variables
              colors-enable-nyan-cat-progress-bar t
              )
      ;; ----------------------------------------------------------------
