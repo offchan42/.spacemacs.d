@@ -17,7 +17,7 @@ Its four core pillars are *Mnemonic*, *Discoverable*,
 
 It forces heavy usage of **space** bar, thus the name **Spacemacs**. It refers
 to the space bar as `SPC`. The purpose of using space bar is to reduce numbers
-of `Ctrl`, `Alt`, `Shift `combinations. It's good for your pinky finger and your
+of `Ctrl`, `Alt`, `Shift` combinations. It's good for your pinky finger and your
 editing speed. It also lowers the risk
 of [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury).
 
