@@ -7,8 +7,8 @@ My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemac
 configurations
 
 # What is [Spacemacs](https://github.com/syl20bnr/spacemacs) ?
-**Spacemacs** is an **Emacs** configuration distribution that makes **Emacs**
-behave a lot like **Vim** by using modal text editing and also provides many
+**Spacemacs** is an [Emacs](https://github.com/emacs-mirror/emacs) configuration distribution that makes **Emacs**
+behave a lot like [Vim](https://github.com/vim/vim) by using modal text editing and also provides many
 useful features out of the box.
 
 Its four core pillars are *Mnemonic*, *Discoverable*,
