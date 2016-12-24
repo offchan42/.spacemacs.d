@@ -24,7 +24,10 @@ of [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury).
 # Screenshots
 These are screenshots taken over time. The most recent one is at the bottom.
 
-My current theme is **material** (I switched back from **majapahit-dark**).
+My current theme is **material** (I switched back from **majapahit-dark**). And
+I've also reduced that too much colorful identifiers to colorize only variables.
+The commit that do just that is 48613a90373651de2a54fd5f5fc6c6371241b32c. You
+can set it back if you want.
 
 This is a **Spacemacs** instance on Windows 10 with **material** theme showing **which
 key** buffer that is invoked by pressing `SPC`.
