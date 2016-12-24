@@ -168,7 +168,9 @@ But most of these keys are also available using `SPC `key too.
 
 - Type `M-q` to toggle between filling or not filling the current paragraph.
   (Wrapping text on to new lines)
-- Type `M-t` to transpose current word with the next word.
+- Type `M-t` to transpose current word with the previous word. If the point is
+  not on the first character of the word then it will transpose current word
+  with the next word instead.
 - Type `M-u` to upper case the next word.
 - Type `M-l` to lower case the next word.
 - Type `M-a` to go to the previous sentence similar to `(` but not exactly the same.
