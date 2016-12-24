@@ -140,6 +140,8 @@ Because the way this section is written is assuming that you understand
   You can discover more actions by typing `?` next.
 - Type `SPC f j` or `SPC j d` to jump to a file using **dired-mode**.
 - Type `SPC j i` to jump to a function using **helm imenu**
+- Type `SPC j j` followed by a character to jump to a character inside all
+  display window using **avy**.
 - Type `SPC b i` to to open **imenu list** (a symbol index).
 - Type `SPC b s` to open a scratch buffer you can play with immediately.
 - Type `SPC f J` to open a new junk file that you can save and abandon later.
