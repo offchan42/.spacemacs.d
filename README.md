@@ -170,5 +170,5 @@ But most of these keys are also available using `SPC `key too.
 - Type `M-t` to transpose current word with the next word.
 - Type `M-u` to upper case the next word.
 - Type `M-l` to lower case the next word.
-- Type `M-a` to go to the previous sentence.
-- Type `M-e` to go to the next sentence.
+- Type `M-a` to go to the previous sentence similar to `(` but not exactly the same.
+- Type `M-e` to go to the next sentence similar to `)` but not exactly the same.
