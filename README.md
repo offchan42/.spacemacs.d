@@ -173,3 +173,5 @@ But most of these keys are also available using `SPC `key too.
 - Type `M-l` to lower case the next word.
 - Type `M-a` to go to the previous sentence similar to `(` but not exactly the same.
 - Type `M-e` to go to the next sentence similar to `)` but not exactly the same.
+- Type `M-SPC` to retain only one space if there are many spaces. If there are
+  no spaces, it will insert one before the point.
