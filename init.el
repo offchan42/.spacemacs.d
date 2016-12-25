@@ -339,7 +339,7 @@ you should place your code here."
   ;; Main Settings
   (setq-default evil-escape-key-sequence "fd")
   (setq-default evil-escape-unordered-key-sequence t)
-  (setq-default scroll-margin 7
+  (setq-default scroll-margin 5
                 ;; scroll-conservatively 9999
                 ;; scroll-step 1
                 )
