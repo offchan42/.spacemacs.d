@@ -348,6 +348,7 @@ you should place your code here."
   (setq powerline-default-separator 'slant)
 
   ;; Keybindings
+  ;; mapping j to gj or k to gk will prohibit you from using dj or dk to delete 2 lines
   ;; (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
   ;; (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
   (defun swoop-find-todos () (interactive) (helm-swoop :$query "\\(fixme\\|todo\\|xxx\\)"))
