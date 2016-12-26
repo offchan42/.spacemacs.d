@@ -155,6 +155,7 @@ Because the way this section is written is assuming that you understand
 - Type `SPC i l l` to insert a random *lorem ipsum* placeholder text.
 - Type `SPC r y` to see all the previously yanked text inside the **kill ring**.
 - Type `SPC T F` or `F11` to toggle fullscreen.
+- Type `SPC w u` or `SPC w U` to use **winner** to undo/redo window configurations
 - Type `SPC w m` to toggle maximize current buffer in the window
 - Type `SPC w f` to toggle follow mode in the current buffer. You can then type
   `SPC w v` to split a new window vertically. The new window will show the same
