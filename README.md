@@ -162,6 +162,8 @@ Because the way this section is written is assuming that you understand
   buffer BUT with a little twist. Put simply, if your window on the left shows
   line 1 - 50 then your window on the right will show line 51 - 100. It also
   sync motion on both buffers, try it and you will love it!
+- Type `SPC v` then `v` repeatedly to expand selection on the region like in
+  [IntelliJ IDEA](https://www.jetbrains.com/idea/)'s `C-w` feature.
 - Type `fd` quickly to quit out of almost everything. You can exit evil
   insert state, evil visual state, helm mode, holy mode, iedit mode, etc.
 
