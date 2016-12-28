@@ -185,3 +185,15 @@ But most of these keys are also available using `SPC `key too.
 - Type `M-SPC` to retain only one space if there are many spaces. If there are
   no spaces, it will insert one before the point.
 - Type `M-k` to kill from point to end of sentence
+
+## Tips for Thai people
+You can learn some basic **Vim** keys from this [website](https://vim.rtorr.com/lang/th/).
+
+**Emacs** have a
+[Thai utility package](https://github.com/emacs-mirror/emacs/blob/master/lisp/language/thai-util.el) 
+available into the core by default. It's not something you would find in **Vim**.
+
+Press `SPC SPC` then `thai-word-mode` to toggle Thai word mode. This will alter
+the key `M-f`, `M-b`, `M-d`, `C-DEL`, `M-t` to understand Thai words.
+See [thai-util.el](https://github.com/emacs-mirror/emacs/blob/master/lisp/language/thai-util.el) 
+if you are curious about how it works.
