@@ -192,7 +192,10 @@ Then you can apply it inside **Evil mode** wonderfully.
 
 **Emacs** have a
 [Thai utility package](https://github.com/emacs-mirror/emacs/blob/master/lisp/language/thai-util.el) 
-available into the core by default. It's not something you would find in **Vim**.
+available into the core by default. It understands Thai language using a decent
+algorithm with
+[a big list of Thai words](https://github.com/emacs-mirror/emacs/blob/master/lisp/language/thai-word.el).
+It's not something you would find in **Vim**.
 
 Press `SPC SPC` then `thai-word-mode` to toggle Thai word mode. This will alter
 the key `M-f`, `M-b`, `M-d`, `C-DEL`, `M-t` to understand Thai words.
