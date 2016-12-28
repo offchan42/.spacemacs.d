@@ -188,6 +188,7 @@ But most of these keys are also available using `SPC `key too.
 
 ## Tips for Thai people
 You can learn some basic **Vim** keys from this [website](https://vim.rtorr.com/lang/th/).
+Then you can apply it inside **Evil mode** wonderfully.
 
 **Emacs** have a
 [Thai utility package](https://github.com/emacs-mirror/emacs/blob/master/lisp/language/thai-util.el) 
