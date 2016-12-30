@@ -145,6 +145,7 @@ Because the way this section is written is assuming that you understand
 - Type `SPC j i` to jump to a function using **helm imenu**
 - Type `SPC j j` followed by a character to jump to a character inside all
   display window using **avy**.
+- Type `SPC j u` to jump to a URL inside all display window using **avy**.
 - Type `SPC b i` to to open **imenu list** (a symbol index).
 - Type `SPC b s` to open a scratch buffer you can play with immediately.
 - Type `SPC f J` to open a new junk file that you can save and abandon later.
