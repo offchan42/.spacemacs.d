@@ -165,8 +165,11 @@ Because the way this section is written is assuming that you understand
   sync motion on both buffers, try it and you will love it!
 - Type `SPC v` then `v` repeatedly to expand selection on the region like in
   [IntelliJ IDEA](https://www.jetbrains.com/idea/)'s `C-w` feature.
-- Type `fd` quickly to quit out of almost everything. You can exit evil
-  insert state, evil visual state, helm mode, holy mode, iedit mode, etc.
+- Type `fd` quickly to quit out of almost everything. You can exit evil insert
+  state, evil visual state, helm mode, holy mode, iedit mode, etc. If you are a
+  veteran **Vim** user and have it set to `jk` then learn to change your habit
+  because setting this key to `jk` can quit from the visual state accidentally
+  when moving up or down a line.
 
   If the thing you are trying to quit out of is a **minibuffer**, just press `q`
   to quit it.
