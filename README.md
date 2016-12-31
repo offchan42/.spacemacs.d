@@ -191,7 +191,10 @@ But most of these keys are also available using `SPC `key too.
 - Type `M-SPC` to retain only one space if there are many spaces. If there are
   no spaces, it will insert one before the point.
 - Type `M-k` to kill from point to end of sentence
-- Type `M-;` to insert a comment symbol
+- Type `M-;` to insert a comment symbol. if the comment already exists, jump to
+  it instead.
+- Type `M-h` to put point at beginning of this paragraph, mark at end. Similar
+  to `vap` in **Evil** mode.
 
 ## Tips for Thai people
 You can learn some basic **Vim** keys from this [website](https://vim.rtorr.com/lang/th/).
