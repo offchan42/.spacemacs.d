@@ -165,6 +165,8 @@ Because the way this section is written is assuming that you understand
   sync motion on both buffers, try it and you will love it!
 - Type `SPC v` then `v` repeatedly to expand selection on the region like in
   [IntelliJ IDEA](https://www.jetbrains.com/idea/)'s `C-w` feature.
+- Type `SPC a u` to visualize your undo history as a tree
+- Type `SPC a E` to open an emoji cheatsheet buffer
 - Type `fd` quickly to quit out of almost everything. You can exit evil insert
   state, evil visual state, helm mode, holy mode, iedit mode, etc. If you are a
   veteran **Vim** user and have it set to `jk` then learn to change your habit
