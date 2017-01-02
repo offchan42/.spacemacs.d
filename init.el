@@ -364,6 +364,7 @@ you should place your code here."
   ;; if you want to activate transient state, try `SPC n =' instead
   (define-key evil-normal-state-map (kbd "C-a") 'evil-numbers/inc-at-pt)
   (define-key evil-insert-state-map (kbd "C-f") 'comint-dynamic-complete-filename)
+  (define-key evil-insert-state-map (kbd "C-v") 'evil-paste-before)
 
   ;; Settings
   ;; Add personal script path, so that "require" works for personal scripts.
