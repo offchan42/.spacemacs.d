@@ -131,6 +131,7 @@ Because the way this section is written is assuming that you understand
   preferred in the *Dependency* section.
 - Type `SPC x g t` to translate a word under point using Google translate (the
   language is currently set from English to Thai).
+- Type `SPC x l s` to sort selected lines or the entire buffer
 - Type `SPC s w g` to search using Google.
 - Type `SPC s s` to search interactively inside current buffer. To edit all the
   matching results, type `C-c C-e` next and do your editing there.
