@@ -179,7 +179,7 @@ Because the way this section is written is assuming that you understand
 ## Cool Emacs keys
 **Emacs** keybindings can also be nice sometimes. So, instead of hating it. We
 should appreciate its good parts and abandon its ugliness.
-But most of these keys are also available using `SPC `key too.
+But most of these keys are also available using `SPC` key too.
 
 - Type `M-q` to toggle between filling or not filling the current paragraph.
   (Wrapping text on to new lines)
