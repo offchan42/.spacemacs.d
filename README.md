@@ -144,6 +144,7 @@ Because the way this section is written is assuming that you understand
   browser. (If the file you are on is inside a **git** repository)
 - Type `SPC g s` to open a git status of your current file inside **magit**.
   You can discover more actions by typing `?` next.
+- Type `SPC g f h` to open current file's history using **magit** log.
 - Type `SPC f j` or `SPC j d` to jump to a file using **dired-mode**.
 - Type `SPC j i` to jump to a function using **helm imenu**
 - Type `SPC j j` followed by a character to jump to a character inside all
