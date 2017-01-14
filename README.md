@@ -200,6 +200,8 @@ But most of these keys are also available using `SPC` key too.
   it instead.
 - Type `M-h` to put point at beginning of this paragraph, mark at end. Similar
   to `vap` in **Evil** mode.
+- Type `C-/` or `C-_` to undo changes similar to `u` but works inside **Evil
+  insert state** too.
 
 ## Tips for Thai people
 You can learn some basic **Vim** keys from this [website](https://vim.rtorr.com/lang/th/).
