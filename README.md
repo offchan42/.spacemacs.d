@@ -167,6 +167,10 @@ Because the way this section is written is assuming that you understand
   buffer BUT with a little twist. Put simply, if your window on the left shows
   line 1 - 50 then your window on the right will show line 51 - 100. It also
   sync motion on both buffers, try it and you will love it!
+- Type `SPC w c` to toggle centered-buffer-mode. Have you ever felt like your
+  screen is really wide but your text buffer is only consuming half left of your
+  screen leaving the half right empty without purpose? If so, try using this
+  command!
 - Type `SPC v` then `v` repeatedly to expand selection on the region like in
   [IntelliJ IDEA](https://www.jetbrains.com/idea/)'s `C-w` feature.
 - Type `SPC a u` to visualize your undo history as a tree
