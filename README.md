@@ -3,8 +3,8 @@
 <hr>
 
 # .spacemacs.d
-My `.spacemacs.d` directory for [Spacemacs](https://github.com/syl20bnr/spacemacs)
-configurations
+My `.spacemacs.d` directory as a [Spacemacs](https://github.com/syl20bnr/spacemacs)
+configuration. It's optimized for English and Thai languages.
 
 # What is [Spacemacs](https://github.com/syl20bnr/spacemacs) ?
 **Spacemacs** is an **Emacs** configuration distribution that
