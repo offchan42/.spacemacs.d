@@ -49,6 +49,14 @@ using `SPC f t`
 [![2016-12-22_21-05-25.png](screenshots/2016-12-22_21-05-25.png)
 ](screenshots/2016-12-22_21-05-25.png?raw=true)
 
+Want to use CLI? Here is a python interactive shell inside Emacs, you can send a
+piece of code to it and use it as usual. I also show the **eshell** on the
+bottom corner which is Emacs' own shell that can do Unix stuff inside Windows as
+well!
+[![2017-02-28_14-13-37.png](screenshots/2017-02-28_14-13-37.png)
+](screenshots/2017-02-28_14-13-37.png?raw=true)
+
+
 # Installation
 1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
   on develop branch.
