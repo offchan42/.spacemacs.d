@@ -66,8 +66,15 @@ using `SPC f t`
   experience, use **Spacemacs** on a graphical version of Emacs!
 
 # Dependencies
-- [all-the-icons](https://github.com/domtronn/all-the-icons.el/tree/master/fonts)
-  fonts are needed for `SPC f t` (neotree) to display file icons properly.
+- I highly recommend using
+  [Source Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960) font
+  from Adobe (it's free and awesome font for writing and programming). My
+  configuration is already setup to try to use it. You can download it freely
+  from this repository:
+  [https://github.com/adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
+- [all-the-icons](https://github.com/domtronn/all-the-icons.el/tree/master/fonts) fonts
+  are needed for `SPC f t` (neotree) to display file icons properly. Go download
+  all **.ttf** files there.
 - Search tools like "[rg](https://github.com/BurntSushi/ripgrep)",
   "[ag](https://github.com/ggreer/the_silver_searcher)",
   "[pt](https://github.com/monochromegane/the_platinum_searcher)", "ack", or
