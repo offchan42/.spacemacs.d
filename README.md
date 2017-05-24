@@ -58,8 +58,9 @@ well!
 
 
 # Installation
-1. Install my [Spacemacs fork](https://github.com/off99555/spacemacs/tree/develop)
-  on develop branch.
+1. Install [Spacemacs](https://github.com/syl20bnr/spacemacs/tree/develop) from
+  develop branch. Follow the instruction for installation and don't forget to
+  install dependencies like fonts.
 
 2. Clone this repository into your home.
   `git clone https://github.com/off99555/.spacemacs.d.git`
