@@ -372,6 +372,8 @@ you should place your code here."
   (define-key evil-normal-state-map (kbd "C-a") 'evil-numbers/inc-at-pt)
   (define-key evil-insert-state-map (kbd "C-f") 'comint-dynamic-complete-filename)
   (evil-define-key 'insert global-map (kbd "C-v") 'evil-paste-after)
+  (define-key evil-normal-state-map (kbd "p") 'evil-paste-after)
+  (define-key evil-normal-state-map (kbd "P") 'evil-paste-before)
 
   ;; Settings
   ;; Add personal script path, so that "require" works for personal scripts.
